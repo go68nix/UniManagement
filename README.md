@@ -1,2 +1,2 @@
 # UniManagement
-This project is an implementation of a university system designed to manage tutor groups, lectures, and other academic events.
+This project is an implementation of a university system designed to manage tutor groups, lectures, and other academic events. The system is built using object-oriented programming principles, following a set of UML class diagrams for guidance. The project covers various aspects including time slots for events, skills and study levels for students, and tutor group management. The implementation is done in Java, leveraging the java.time package and Java Stream API for certain functionalities.
